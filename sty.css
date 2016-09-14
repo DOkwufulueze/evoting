@@ -1,0 +1,86 @@
+#ulog{
+text-align:center;
+margin-top:40px;
+}
+#regwrap2{
+	list-style-type:none;
+	border:1px groove #999;
+	border-radius: 10px 10px;
+	width:400px;
+	height:500px;
+	margin-left:200px;
+	clear:auto;
+	background-color:#cdc;
+}
+
+#reg2 li{
+	list-style-type:none;
+	display:block;
+	position:relative;
+	background-color:#3ca;
+	width:200;
+	margin-left:50px;
+	text-align:center;
+	padding:10px;
+	top:20px;
+}
+#reg2 a{
+    text-decoration:none;
+}
+
+
+
+/*function*/
+
+function reg7(){
+var t=document.getElementById("reg6");
+t.style.backgroundColor="#cfd"; 
+t.style.borderRadius="10px 10px";
+}	
+function reg8(){
+var t=document.getElementById("reg6");
+t.style.backgroundColor=""; 
+t.style.borderRadius="";
+}	
+function reg10(){
+var t=document.getElementById("reg9");
+t.style.backgroundColor="#cfd"; 
+t.style.borderRadius="10px 10px";
+}	
+function reg11(){
+var t=document.getElementById("reg9");
+t.style.backgroundColor=""; 
+t.style.borderRadius="";
+}	
+function reg13(){
+var t=document.getElementById("reg12");
+t.style.backgroundColor="#cfd"; 
+t.style.borderRadius="10px 10px";
+}	
+function reg14(){
+var t=document.getElementById("reg12");
+t.style.backgroundColor=""; 
+t.style.borderRadius="";
+}			
+
+function reg16(){
+var t=document.getElementById("reg15");
+t.style.backgroundColor="#cfd"; 
+t.style.borderRadius="10px 10px";
+}	
+function reg17(){
+var t=document.getElementById("reg15");
+t.style.backgroundColor=""; 
+t.style.borderRadius="";
+}	
+function reg19(){
+var t=document.getElementById("reg18");
+t.style.backgroundColor="#cfd"; 
+t.style.borderRadius="10px 10px";
+}	
+function reg20(){
+var t=document.getElementById("reg18");
+t.style.backgroundColor=""; 
+t.style.borderRadius="";
+}			
+		

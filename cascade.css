@@ -1,0 +1,305 @@
+body{
+	background-color:#000000;
+	font-family:Times New roman;
+	color:#666633;
+}
+marquee{
+	color:red;
+	background:transparent;
+}
+#regwrap{
+	list-style-type:none;
+	border:1px groove #999;
+	/*border-radius: 10px 10px;*/
+	width:400px;
+	height:200px;
+	margin-left:200px;
+	/*clear:auto;*/
+	background-color:#cdc;
+}
+#reg1 li{
+	list-style-type:none;
+	display:block;
+	position:relative;
+	background-color:#3ca;
+	width:200;
+	margin-left:50px;
+	text-align:center;
+	padding:10px;
+	top:20px;
+}
+#reg1 a{
+    text-decoration:none;
+}
+#field{
+		margin:10px 10px 150px 10px;
+		
+}
+
+#us div>span{
+	color:red;}
+#us legend{
+	color:blue;
+	font-family:forte;
+	background:#cfc;
+
+}
+#us{
+	line-height:30px;
+	padding:10px;
+	background:#cdc;
+}
+#us input{
+	margin-left:20px;
+	width:300px;
+	border-color:#cdc;
+}
+#us span input{
+	margin-left:20px;
+	width:auto;
+	border-color:#cdc;
+}
+#menu{
+	width:793px;
+	height:20px;
+	border:1px solid #999;
+	background-color:#cfc;
+	font-family:calimbri;
+	font-size:15px;
+	padding:3px;
+}
+#wrap1{
+	border:0px solid green;
+	width:800px;
+	position:relative;
+	height:auto;
+	float:left;
+	clear:both;
+	margin-left:100px;
+	background-color:white;
+}
+#head{
+	width:799px;
+	height:100px;
+	border:1px solid #999;
+	background-color:green;
+	background-image:url("dd.jpg");
+	/*background-repeat:no-repeat;
+	background-size:100%;*/
+	font-family:magneto;
+	font-size:30px;
+}
+#image1{
+	float:left;
+    margin-top:30px;
+	margin-left:10px;
+	width:500;
+	height:250px;
+	border:1px solid #999;
+	background-color:#cdc;
+	background-image:url("lasu.jpg");
+}
+
+#footer{
+	background-color:rgb(000,128,255);
+	float:left;
+	text-align:center;
+	position:relative;
+	width:800;
+	padding-top:5px;
+	height:30px;
+	margin-top:10%;
+	color:#efefef;
+}
+button{
+	color:green;
+}
+#adm{
+	margin:0 0 5px 0;
+	color:efefef;
+	text-align:center;
+	background-color:#0080ff;
+}
+#left{
+	float:left;
+	width:250px;
+	height:240px;
+	border:1px dashed #999999;
+	/*background-color:;*/
+	font-family:calimbri;
+	font-size:15px;
+	padding:3px;
+	margin-top:30px;
+	line-height:20px;
+	margin-left:5px;
+	
+}
+#left1{
+	margin-left:5px;
+	float:left;
+    margin-top:10px;
+	width:250;
+	height:120px;
+	border:1px solid #999;
+	/*background-color:#;*/
+}
+
+#right{ 
+	float:left;
+    margin-left:10px;
+	margin-top:10px;
+	width:250px;
+	height:120px;
+	border:1px solid #999;
+	/*background-color:#;*/
+}
+#right1{
+
+	float:left;
+	margin-top:10px;
+	margin-top:10px;
+    margin-left:10px;
+	width:250px;
+	height:125px;
+	border:1px solid #999;
+	/*background-color:#;*/
+}
+li{
+
+	list-style:square;
+}
+.aref{
+
+	text-decoration:none;
+	color:blue;
+}
+.aref:link{
+	color:green;
+}
+.aref:visited{
+	color:green;
+	}
+.aref:hover{
+
+	color:red;
+}
+.aref:active{
+
+	color:blue;
+}
+.ak{
+
+	text-decoration:none;
+	color:blue;
+}
+.ak:link{
+	color:#666633;
+}
+.ak:visited{
+	color:#666633;
+	}
+.ak:hover{
+	color:red;
+}
+.ak:active{
+	color:blue;
+}
+#man-1{
+	border:2px solid black ;
+	width:380px ;
+	height:auto;
+	float:right;
+	position:relative;
+	top:60px;
+	right:150px;
+	padding:0px 5px 5px 5px;
+	/*white-space:30px;*/
+	line-height:40px;
+}
+#ms{
+	text-align:center;
+	background:#0080ff;
+	width:300px;
+	height:20px;
+	padding:5px 5px 5px 5px;
+	margin-left:auto;
+	border:2px outset black ;
+}
+#side2 a{
+	text-decoration:none;
+	color:green;
+} 
+#side2 a:link{
+	color:green;
+}
+#side2 a:visited{
+	color:green;
+}
+#side2 a:hover{
+	color:gold;
+}
+#side2 li{
+	list-style-type:none;
+} 
+#side2 li > ul{
+	display:none;
+} 
+#side2 li:hover> ul{
+	display:block;
+	
+} 
+#overall{
+}
+#adm-menu{
+	background-color:lime;
+	border-bottom:2px;
+}
+#side1 a{
+	text-decoration:none;
+	color:#999;
+}
+#side2{
+	border-right:2px solid black ;
+	width:230px ;
+	height:400px;
+	float:left;
+	position:relative;
+	padding:5px;
+	margin:5px;
+	color:green;
+}
+#mid{
+}
+
+#conf{
+	display:none;
+}
+#ulog{
+text-align:center;
+margin-top:40px;
+}
+#regwrap2{
+	list-style-type:none;
+	border:1px groove #999;
+	border-radius: 10px 10px;
+	width:400px;
+	height:500px;
+	margin-left:200px;
+	clear:auto;
+	background-color:#0080ff;
+}
+
+#reg2 li{
+	list-style-type:none;
+	display:block;
+	position:relative;
+	background-color:#3ca;
+	width:200;
+	margin-left:50px;
+	text-align:center;
+	padding:10px;
+	top:20px;
+}
+#reg2 a{
+    text-decoration:none;
+}
